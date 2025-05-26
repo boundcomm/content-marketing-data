@@ -1,0 +1,45 @@
+// File 5: social-queue.json
+{
+  "social_posts": [
+    {
+      "id": "linkedin-stress-1",
+      "platform": "linkedin",
+      "platform_color": "#0077b5",
+      "audience": "Professional Audience",
+      "content": "Most people think stress relief requires hours of meditation. But neuroscience research shows that just 10 minutes of theta wave audio can trigger the same relaxation response. Here's what Harvard researchers discovered... 🧠✨\n\n[Link to blog post]",
+      "schedule": "Today, 2:00 PM",
+      "status": "approved",
+      "related_content": "5 Science-Backed Ways Audio Reduces Daily Stress"
+    },
+    {
+      "id": "twitter-stress-1",
+      "platform": "twitter",
+      "platform_color": "#1da1f2",
+      "audience": "Quick Tips",
+      "content": "🧠 Quick stress relief hack:\n\nTraditional meditation: 30-60 min to feel calm\nTheta wave audio: 8-10 min for same effect\n\nScience-backed shortcuts that actually work 👇\n\n[Link]",
+      "schedule": "Today, 4:30 PM",
+      "status": "pending",
+      "related_content": "5 Science-Backed Ways Audio Reduces Daily Stress"
+    },
+    {
+      "id": "facebook-stress-1",
+      "platform": "facebook",
+      "platform_color": "#1877f2",
+      "audience": "Community Focused",
+      "content": "If you've ever felt like meditation just isn't for you, you're not alone. 73% of people struggle with traditional meditation techniques.\n\nBut what if there was a way to get the same stress-relief benefits in just 10 minutes? New research on theta wave audio might change everything...\n\nRead the full breakdown: [link]",
+      "schedule": "Tomorrow, 10:00 AM",
+      "status": "approved",
+      "related_content": "Binaural Beats vs. Traditional Meditation for Anxiety"
+    },
+    {
+      "id": "linkedin-workplace",
+      "platform": "linkedin",
+      "platform_color": "#0077b5",
+      "audience": "Professional Audience",
+      "content": "New research on theta wave audio shows remarkable results for workplace stress management. Companies using audio-based wellness programs report 40% reduction in stress-related sick days...\n\n[Link to research]",
+      "schedule": "Tomorrow, 8:00 AM",
+      "status": "needs_review",
+      "related_content": "How Theta Waves Trigger Your Body's Relaxation Response"
+    }
+  ]
+}
