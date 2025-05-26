@@ -26,33 +26,6 @@
       "target_audience": "Artists, writers, designers, musicians, creative professionals",
       "unique_angle": "First-ever blog dedicated to audio-enhanced creativity - completely uncharted territory",
       "content_clusters": ["Creativity & Innovation"]
-    },
-    {
-      "id": "focus-hacker",
-      "name": "FocusHacker.net",
-      "status": "planned",
-      "categories": "focus,productivity,cognitive",
-      "target_audience": "Students, knowledge workers, entrepreneurs, productivity enthusiasts",
-      "unique_angle": "Scientific approach to focus training using audio technology - beyond typical productivity advice",
-      "content_clusters": ["Focus & Productivity"]
-    },
-    {
-      "id": "brain-optimization-pro",
-      "name": "BrainOptimization.pro",
-      "status": "planned",
-      "categories": "memory,learning,biohacking",
-      "target_audience": "Biohackers, students, professionals concerned about cognitive decline",
-      "unique_angle": "Evidence-based cognitive optimization using audio technology - target high-value professional audience",
-      "content_clusters": ["Memory & Learning"]
-    },
-    {
-      "id": "nextgen-meditation",
-      "name": "NextGenMeditation.com",
-      "status": "planned",
-      "categories": "meditation,mindfulness",
-      "target_audience": "Meditation dropouts, busy professionals, people who struggle with traditional meditation",
-      "unique_angle": "Modern meditation alternatives for people who can't sit still - tech-enhanced mindfulness",
-      "content_clusters": ["Meditation & Mindfulness"]
     }
   ]
 }
