@@ -1,0 +1,59 @@
+// File 2: blog-registry.json
+{
+  "blogs": [
+    {
+      "id": "stress-relief-audio",
+      "name": "StressRelief.Audio",
+      "status": "active",
+      "categories": "stress,anxiety,meditation",
+      "target_audience": "Working professionals, parents, high-stress individuals",
+      "unique_angle": "Science-backed audio solutions for busy people who don't have time for traditional meditation",
+      "content_clusters": ["Stress & Anxiety Relief", "Meditation & Mindfulness"]
+    },
+    {
+      "id": "sleep-optimized",
+      "name": "SleepOptimized.com",
+      "status": "active",
+      "categories": "sleep,insomnia,wellness",
+      "target_audience": "Insomniacs, shift workers, new parents, sleep-deprived professionals",
+      "unique_angle": "Data-driven sleep optimization using audio technology and biohacking principles",
+      "content_clusters": ["Sleep Enhancement"]
+    },
+    {
+      "id": "creative-flow-audio",
+      "name": "CreativeFlow.audio",
+      "status": "planned",
+      "categories": "creativity,innovation,art",
+      "target_audience": "Artists, writers, designers, musicians, creative professionals",
+      "unique_angle": "First-ever blog dedicated to audio-enhanced creativity - completely uncharted territory",
+      "content_clusters": ["Creativity & Innovation"]
+    },
+    {
+      "id": "focus-hacker",
+      "name": "FocusHacker.net",
+      "status": "planned",
+      "categories": "focus,productivity,cognitive",
+      "target_audience": "Students, knowledge workers, entrepreneurs, productivity enthusiasts",
+      "unique_angle": "Scientific approach to focus training using audio technology - beyond typical productivity advice",
+      "content_clusters": ["Focus & Productivity"]
+    },
+    {
+      "id": "brain-optimization-pro",
+      "name": "BrainOptimization.pro",
+      "status": "planned",
+      "categories": "memory,learning,biohacking",
+      "target_audience": "Biohackers, students, professionals concerned about cognitive decline",
+      "unique_angle": "Evidence-based cognitive optimization using audio technology - target high-value professional audience",
+      "content_clusters": ["Memory & Learning"]
+    },
+    {
+      "id": "nextgen-meditation",
+      "name": "NextGenMeditation.com",
+      "status": "planned",
+      "categories": "meditation,mindfulness",
+      "target_audience": "Meditation dropouts, busy professionals, people who struggle with traditional meditation",
+      "unique_angle": "Modern meditation alternatives for people who can't sit still - tech-enhanced mindfulness",
+      "content_clusters": ["Meditation & Mindfulness"]
+    }
+  ]
+}
