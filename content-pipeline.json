@@ -1,0 +1,74 @@
+// File 4: content-pipeline.json
+{
+  "pipeline": [
+    {
+      "id": "stress-pillar",
+      "title": "The Complete Guide to Audio-Based Stress Relief",
+      "type": "pillar",
+      "cluster": "Stress & Anxiety Relief",
+      "status": "writing",
+      "eta": "2 hours",
+      "word_count_target": 3500,
+      "assigned_blog": "StressRelief.Audio"
+    },
+    {
+      "id": "stress-science",
+      "title": "5 Science-Backed Ways Audio Reduces Daily Stress",
+      "type": "supporting",
+      "cluster": "Stress & Anxiety Relief",
+      "status": "published",
+      "eta": "completed",
+      "publish_date": "2025-05-24",
+      "assigned_blog": "StressRelief.Audio"
+    },
+    {
+      "id": "binaural-meditation",
+      "title": "Binaural Beats vs. Traditional Meditation for Anxiety",
+      "type": "supporting",
+      "cluster": "Stress & Anxiety Relief",
+      "status": "review",
+      "eta": "pending",
+      "word_count": 2156,
+      "assigned_blog": "StressRelief.Audio"
+    },
+    {
+      "id": "theta-waves",
+      "title": "How Theta Waves Trigger Your Body's Relaxation Response",
+      "type": "supporting",
+      "cluster": "Stress & Anxiety Relief",
+      "status": "writing",
+      "eta": "45 min",
+      "word_count": 1923,
+      "assigned_blog": "StressRelief.Audio"
+    },
+    {
+      "id": "workplace-stress",
+      "title": "15-Minute Audio Routines for Workplace Stress",
+      "type": "supporting",
+      "cluster": "Stress & Anxiety Relief",
+      "status": "queued",
+      "eta": "starts in 2h",
+      "assigned_blog": "StressRelief.Audio"
+    },
+    {
+      "id": "sleep-pillar",
+      "title": "The Ultimate Guide to Sleep-Optimizing Audio",
+      "type": "pillar",
+      "cluster": "Sleep Enhancement",
+      "status": "approved",
+      "eta": "starting next",
+      "word_count_target": 3200,
+      "assigned_blog": "SleepOptimized.com"
+    },
+    {
+      "id": "sleep-connection",
+      "title": "The Sleep-Audio Connection: Better Rest Starting Tonight",
+      "type": "supporting",
+      "cluster": "Sleep Enhancement",
+      "status": "writing",
+      "eta": "1.5 hours",
+      "word_count": 1923,
+      "assigned_blog": "SleepOptimized.com"
+    }
+  ]
+}
