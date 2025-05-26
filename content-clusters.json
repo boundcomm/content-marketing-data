@@ -1,0 +1,114 @@
+// File 3: content-clusters.json
+{
+  "clusters": [
+    {
+      "id": "stress-anxiety-relief",
+      "name": "Stress & Anxiety Relief Hub",
+      "emoji": "🧠",
+      "assigned_blog": "StressRelief.Audio",
+      "status": "approved",
+      "pillar_page": {
+        "title": "The Complete Guide to Audio-Based Stress Relief",
+        "description": "Comprehensive resource covering all stress-relief audio techniques"
+      },
+      "supporting_articles": [
+        "5 Science-Backed Ways Audio Reduces Daily Stress",
+        "Binaural Beats vs. Traditional Meditation for Anxiety",
+        "How Theta Waves Trigger Your Body's Relaxation Response",
+        "15-Minute Audio Routines for Workplace Stress",
+        "The Neuroscience Behind Sound Therapy",
+        "Real Success Stories: From Burnout to Balance"
+      ]
+    },
+    {
+      "id": "sleep-enhancement",
+      "name": "Sleep Enhancement Hub",
+      "emoji": "😴",
+      "assigned_blog": "SleepOptimized.com",
+      "status": "planning",
+      "pillar_page": {
+        "title": "The Ultimate Guide to Sleep-Optimizing Audio",
+        "description": "Complete guide to using audio for better sleep quality"
+      },
+      "supporting_articles": [
+        "Delta Waves vs. White Noise for Deep Sleep",
+        "How to Use Audio to Fix Your Sleep Schedule",
+        "The Sleep-Audio Connection: What Science Says",
+        "Creating the Perfect Bedtime Audio Routine",
+        "Why Sleep Apps Fail (And What Works Instead)"
+      ]
+    },
+    {
+      "id": "focus-productivity",
+      "name": "Focus & Productivity Hub",
+      "emoji": "🎯",
+      "assigned_blog": "FocusHacker.net",
+      "status": "research",
+      "pillar_page": {
+        "title": "Audio Focus Training: The Complete System",
+        "description": "Comprehensive system for audio-enhanced focus and productivity"
+      },
+      "supporting_articles": [
+        "Focus Like a Laser: Audio Techniques That Work",
+        "Beta vs. Gamma Waves for Mental Clarity",
+        "The 40Hz Focus Frequency: Revolutionary Research",
+        "Audio Focus Training for Students vs. Professionals",
+        "Why Background Music Kills Focus (And What to Use Instead)",
+        "Building Sustained Attention with Sound Therapy",
+        "The Pomodoro Technique + Audio Enhancement Guide"
+      ]
+    },
+    {
+      "id": "memory-learning",
+      "name": "Memory & Learning Hub",
+      "emoji": "🧠",
+      "assigned_blog": "BrainOptimization.pro",
+      "status": "planning",
+      "pillar_page": {
+        "title": "Audio-Enhanced Learning: Memory Optimization Guide",
+        "description": "Scientific approach to improving memory and learning with audio"
+      },
+      "supporting_articles": [
+        "How Audio Frequencies Improve Memory Retention",
+        "Study Music vs. Brainwave Audio: The Data",
+        "Memory Palace Technique + Audio Enhancement",
+        "Age-Related Memory Decline: Audio Solutions"
+      ]
+    },
+    {
+      "id": "creativity-innovation",
+      "name": "Creativity & Innovation Hub",
+      "emoji": "🎨",
+      "assigned_blog": "CreativeFlow.audio",
+      "status": "approved",
+      "pillar_page": {
+        "title": "Unlocking Creative Flow with Audio Technology",
+        "description": "First-ever guide to audio-enhanced creativity and innovation"
+      },
+      "supporting_articles": [
+        "Alpha Waves and Creative Breakthrough",
+        "Sound Therapy for Writer's Block",
+        "The Creative Brain: Audio Triggers for Innovation",
+        "Case Studies: Artists Using Brainwave Audio"
+      ]
+    },
+    {
+      "id": "meditation-mindfulness",
+      "name": "Meditation & Mindfulness Hub",
+      "emoji": "🧘",
+      "assigned_blog": "NextGenMeditation.com",
+      "status": "planning",
+      "pillar_page": {
+        "title": "Beyond Traditional Meditation: Audio-Assisted Mindfulness",
+        "description": "Modern meditation alternatives using audio technology"
+      },
+      "supporting_articles": [
+        "Why Traditional Meditation Fails for Most People",
+        "Guided vs. Brainwave Audio Meditation",
+        "The Science of Theta State Meditation",
+        "5-Minute Audio Meditations That Actually Work",
+        "Meditation Apps vs. Professional Audio Programs"
+      ]
+    }
+  ]
+}
