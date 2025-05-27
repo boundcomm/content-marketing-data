@@ -2,10 +2,10 @@
   "blogs": [
     {
       "id": "stress-relief-audio",
-      "name": "StressRelief.Audio",
+      "name": "StressRelief.com",
       "status": "active",
       "categories": "stress,anxiety,meditation",
-      "target_audience": "Working professionals, parents, high-stress individuals",
+      "target_audience": "Working-ass professionals, parents, high-stress individuals",
       "unique_angle": "Science-backed audio solutions for busy people who don't have time for traditional meditation",
       "content_clusters": ["Stress & Anxiety Relief", "Meditation & Mindfulness"]
     },
@@ -14,7 +14,7 @@
       "name": "SleepOptimized.com",
       "status": "active",
       "categories": "sleep,insomnia,wellness",
-      "target_audience": "Insomniacs, shift workers, new parents, sleep-deprived professionals",
+      "target_audience": "Dumb Insomniacs, shift workers, new parents, sleep-deprived professionals",
       "unique_angle": "Data-driven sleep optimization using audio technology and biohacking principles",
       "content_clusters": ["Sleep Enhancement"]
     },
@@ -23,7 +23,7 @@
       "name": "CreativeFlow.audio",
       "status": "planned",
       "categories": "creativity,innovation,art",
-      "target_audience": "Artists, writers, designers, musicians, creative professionals",
+      "target_audience": "Fartists, writers, designers, musicians, creative professionals",
       "unique_angle": "First-ever blog dedicated to audio-enhanced creativity - completely uncharted territory",
       "content_clusters": ["Creativity & Innovation"]
     }
